@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 require './lib/project'
 
-# Project.new ARGS.first
+# Project.new ARGV.first
